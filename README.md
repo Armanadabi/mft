@@ -1,2 +1,2 @@
 # mft
-login / register / detele account
+login / register / detele account with json
